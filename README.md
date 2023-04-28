@@ -39,9 +39,9 @@ I am a entrepreneur, machine learning expert and blockchain architect with over 
 
 ## Contact
 
-* [chuck@axiomaticinfo.com]
-* [https://www.linkedin.com/in/ChuckChekuri]
-* [https://www.twitter.com/ChuckChekuri]
-* [https://chuck.axiomaticinfo.com]
-* [https://www.togethermdm.com]
+* Email: chuck@axiomaticinfo.com
+* LinkedIn : https://www.linkedin.com/in/ChuckChekuri
+* Personal Site: [https://chuck.axiomaticinfo.com]
+* Company Website: [https://www.togethermdm.com]
+* Twitter: [https://www.twitter.com/ChuckChekuri]
 
