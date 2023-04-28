@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Bio
 
-I am a entrepreneur, machine learning expert and blockchain architect with over 30 years of experience developing and coding in various software languages like Java, C++, Python, R, PHP, SQL. I am currently the founder and CEO of TogetherMDM, a blockchain-based startup that is revolutionizing the way people interact with data. I am an avid developer, always learning and sharing what I know with the community, and I am passionate about using technology to solve real-world problems.
+I am a healthcare IT entrepreneur, machine learning expert and blockchain architect with over 30 years of experience developing software solutions. I am currently the founder and CEO of TogetherMDM, a blockchain-based startup that is revolutionizing the way people interact with data. I am an avid software developer, passionate about learning and sharing what I know with the community.
 
 ## Skills
 
@@ -26,11 +26,15 @@ I am a entrepreneur, machine learning expert and blockchain architect with over 
 * DevOps: Docker, Azure Dev Ops
 * Agile Development: Scrum
 
-## Projects
+## Projects/Activities
 
-* [TogetherMDM]: A blockchain-based startup for healthcare providers to secure and monitor their data.
-* [Blockchain Bandwagon]: A weekly podcast on Callin.com
-* []: Another popular open source project that I contribute to.
+* TogetherMDM: A blockchain-based startup for healthcare providers to secure and monitor their data.
+* Hospice Dynamix: An AI based product for Hospices to manage Cap exposure and reduce the risk of audits.
+* Blockchain Bandwagon: A weekly podcast on Callin.com discussing blockchain technology.
+* DataConLA: Blockchain for Master Data Management
+* SoCal CDO: Governing body member since 2011 and Governing Body Member since 2016
+
+## 
 
 ## Pending Patents
 
@@ -44,4 +48,8 @@ I am a entrepreneur, machine learning expert and blockchain architect with over 
 * Personal Site: [https://chuck.axiomaticinfo.com]
 * Company Website: [https://www.togethermdm.com]
 * Twitter: [https://www.twitter.com/ChuckChekuri]
+* YouTube: [https://www.youtube.com/ChuckChekuri]
 
+**I am always looking for new opportunities to collaborate with other developers and entrepreneurs in the blockchain space. If you are interested in working with me, please feel free to reach out.**
+
+**I encourage you to join me on my podcast and share your thoughts on blockchain technology and its potential to impact the world. You can find the podcast on here[https://www.callin.com/show/blockchain-bandwagon-sOdNRHQFjX].**
