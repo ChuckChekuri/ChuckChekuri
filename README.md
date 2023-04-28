@@ -40,8 +40,8 @@ How to build solutions on blockchain, Data Quality, Data Pipeline, Data Manageme
 
 ## I can have original ideas ...
 
-* [Application No. 17/148,002 on 01/13/2021]: SYSTEMS , METHODS , AND MEDIA FOR GENERATING PEER GROUP DRIVEN OPERATIONAL RECOMMENDATIONS.  (Filed by Skygen USA, LLC)
-* [Application No. 63/370,113 on 08/02/2022]: SYSTEM AND METHODS TO AUTOMATE MASTER DATA MANAGEMENT USING BLOCKCHAIN & SMART CONTRACTS .
+* [Patent Application No. 17/148,002 on 01/13/2021]: SYSTEMS , METHODS , AND MEDIA FOR GENERATING PEER GROUP DRIVEN OPERATIONAL RECOMMENDATIONS.  (Filed by Skygen USA, LLC)
+* [Patent Application No. 63/370,113 on 08/02/2022]: SYSTEM AND METHODS TO AUTOMATE MASTER DATA MANAGEMENT USING BLOCKCHAIN & SMART CONTRACTS .
 
 ## You can email me or learn more about me here ...
 
