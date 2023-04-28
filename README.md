@@ -23,20 +23,20 @@ How to build solutions on blockchain, Data Quality, Data Pipeline, Data Manageme
 
 ## I am continuously learning ..
 
-* Programming Languages: Solidity, Javascript, Python, R, SQL currently and maany others over the years.
-* Machine Learning: TensorFlow, scikit-learn and now a huge ChatGPT user
-* Blockchain: Ethereum, Hyperledger Besu, Corda, IPFS, Swarm
-* Cloud Computing: AWS, Azure, Google Cloud Platform
-* DevOps: Docker, Azure Dev Ops
-* Agile Development: Scrum
+* **Programming Languages**: Solidity, Javascript, Python, R, SQL currently and maany others over the years.
+* **Machine Learning**: TensorFlow, scikit-learn and now a huge ChatGPT user
+* **Blockchain**: Ethereum, Hyperledger Besu, Corda, IPFS, Swarm
+* **Cloud Computing**: AWS, Azure, Google Cloud Platform
+* **DevOps**: Docker, Azure Dev Ops
+* **Agile Development**: Scrum
 
 ## I spend my time on the following ...
 
-* TogetherMDM: A blockchain-based startup for healthcare providers to secure and monitor their data.
-* Hospice Dynamix: An AI based product for Hospices to manage Cap exposure and reduce the risk of audits.
-* Blockchain Bandwagon: A weekly podcast on Callin.com discussing blockchain technology.
-* DataConLA: Blockchain for Master Data Management
-* SoCal CDO: Governing body member since 2011 and Governing Body Member since 2016
+* **TogetherMDM**: A blockchain-based startup for healthcare providers to secure and monitor their data.
+* **Hospice Dynamix**: An AI based product for Hospices to manage Cap exposure and reduce the risk of audits.
+* **Blockchain Bandwagon**: A weekly podcast on Callin.com discussing blockchain technology.
+* **DataConLA**: Past speaker and current volunteer
+* **SoCal CDO**: Governing body member since 2011 and Governing Body Member since 2016
 
 ## I can have original ideas ...
 
