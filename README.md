@@ -32,7 +32,7 @@ I am a entrepreneur, machine learning expert and blockchain architect with over 
 * [Blockchain Bandwagon]: A weekly podcast on Callin.com
 * []: Another popular open source project that I contribute to.
 
-## Patent Pending 
+## Pending Patents
 
 * [Application No. 17/148,002 on 01/13/2021]: SYSTEMS , METHODS , AND MEDIA FOR GENERATING PEER GROUP DRIVEN OPERATIONAL RECOMMENDATIONS.  (Filed by Skygen USA, LLC)
 * [Application No. 63/370,113 on 08/02/2022]: SYSTEM AND METHODS TO AUTOMATE MASTER DATA MANAGEMENT USING BLOCKCHAIN & SMART CONTRACTS .
