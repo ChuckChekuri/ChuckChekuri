@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## I'm currently working on ...
 
-A blockchain-based startup that is revolutionizing the way healthcare providers secure and monitor their personal information. I am an avid software developer, passionate about learning and sharing what I know with the community.
-My background is in healthcare IT, Machine Learning and Data Management. I have over 30 years of experience developing software solutions. 
+AxiomAI is an analytical frame for responsible AI innovation. AxiomAI is a tool for investors and business leaders to understand the AI landscape for actionable insights in the fast-changing world and assess and grasp AI's future. 
+My background is in Policy, Strategy, Governance, implementation of AI in Government, Healthcare, Machine Learning and Data Management. I have over 30 years of experience developing technical solutions that impact businesses.
 
-## Ask me About ...
-How to build solutions on blockchain, Data Quality, Data Pipeline, Data Management Strategies and How to build products.
+## Ask Me About ...
+How to Responsible AI Innovation
 
 ## I am continuously learning ..
 
