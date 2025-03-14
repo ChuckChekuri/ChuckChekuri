@@ -47,8 +47,9 @@ How to Responsible AI Innovation
 
 * [Email: chuck@axiomaticinfo.com](mailto::chuck@axiomaticinfo.com)
 * [LinkedIn](https://www.linkedin.com/in/ChuckChekuri)
+* [Axiomatic Framework](https://framework.axiomaticinfo.com)
 * [Personal Site](https://chuck.axiomaticinfo.com)
-* [Company Website](https://www.togethermdm.com)
+* [Company Website](https://www.axiomaticinfo.com)
 * [Twitter](https://www.twitter.com/ChuckChekuri)
 * [YouTube](https://www.youtube.com/ChuckChekuri)
 
