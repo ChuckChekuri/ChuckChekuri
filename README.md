@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 
 ## I'm currently working on ...
 
-AxiomAI is an analytical frame for responsible AI innovation. AxiomAI is a tool for investors and business leaders to understand the AI landscape for actionable insights in the fast-changing world and assess and grasp AI's future. 
+* Promoting my book "The AI Greatness Torch". You can check it out at https://torch.axiomaticinfo.com (will be live soon)
+* US Navy Project as AI/ML SME on a major project with VSolvit, LLC a prime DOD contractor.
+* A Digital AI Agent for a startup FlexWorks, helping with Agentic AI using AWS Agent Core
+* The Companion App for my book "The AI Greatness Torch" to master AI
+* Team Chuck, a private LinkedIn group of 40+ mentees, where I coach on career advancement and AI.
+  
 My background is in Policy, Strategy, Governance, implementation of AI in Government, Healthcare, Machine Learning and Data Management. I have over 30 years of experience developing technical solutions that impact businesses.
 
 ## Ask Me About ...
-How to Responsible AI Innovation
+How to AI Safety, Innovation and Mentoring
 
 ## I am continuously learning ..
 
@@ -32,9 +37,9 @@ How to Responsible AI Innovation
 
 ## I spend my time on the following ...
 
-* **TogetherMDM**: A blockchain-based startup for healthcare providers to secure and monitor their data.
-* **Hospice Dynamix**: An AI based product for Hospices to manage Cap exposure and reduce the risk of audits.
-* **Blockchain Bandwagon**: A weekly podcast on Callin.com discussing blockchain technology.
+* **The AI Greatness Torch**: A book on AI Safety focused on maximizing rewards by understanding the risks of AI.
+* **DOD US Navy Project**: An AI/ML project to automate the analysis of 2Ks for downstream analytic usecases and reports.
+* **Kwaai.net**: A weekly community meeting that values personal ai and data privacy.
 * **DataConLA**: Past speaker and current volunteer
 * **SoCal CDO**: Governing body member since 2011 and Governing Body Member since 2016
 
@@ -48,6 +53,7 @@ How to Responsible AI Innovation
 * [Email: chuck@axiomaticinfo.com](mailto::chuck@axiomaticinfo.com)
 * [LinkedIn](https://www.linkedin.com/in/ChuckChekuri)
 * [Axiomatic Framework](https://framework.axiomaticinfo.com)
+* [The AI Greatness Torch](https://torch.axiomaticinfo.com)
 * [Personal Site](https://chuck.axiomaticinfo.com)
 * [Company Website](https://www.axiomaticinfo.com)
 * [Twitter](https://www.twitter.com/ChuckChekuri)
